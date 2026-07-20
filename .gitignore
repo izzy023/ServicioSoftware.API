@@ -1,0 +1,19 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Usuario
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+
+# Desarrollo
+appsettings.Development.json
